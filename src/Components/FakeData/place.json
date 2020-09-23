@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "name":"Cox's Bazar",
+        "details":"Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh.",
+        "lat": 78, 
+        "lon": 100
+    },
+    {
+        "id":1,
+        "name":"Sreemangal",
+        "details":"Srimangal. From Wikipedia, the free encyclopedia. Redirect page. Jump to navigation Jump to search. Redirect to: Sreemangal Upazila",
+        "lat": 36, 
+        "lon": 91
+    },
+    {
+        "id":2,
+        "name":"Sundarban",
+        "details":"The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.",
+        "lat": 37, 
+        "lon": 68
+    }
+]
